@@ -320,7 +320,7 @@ export default function Home() {
               </div>
               
               <blockquote className="text-xl text-gray-700 text-center mb-8 leading-relaxed italic">
-                "{testimonials[currentTestimonial].text}"
+                {testimonials[currentTestimonial].text}
               </blockquote>
               
               <div className="text-center">
