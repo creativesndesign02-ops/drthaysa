@@ -142,7 +142,9 @@ export default function Home() {
             <div className="animate-fade-in">
               <h1 className="text-5xl md:text-6xl font-bold text-gray-900 leading-tight mb-6">
                 Alívio da Dor.
-                <span className="text-blue-600 block">Qualidade de Vida.</span>
+                <span className="text-blue-600 block">
+                  
+                  .</span>
               </h1>
               <p className="text-xl text-gray-600 mb-8 leading-relaxed">
                 Especialista em Medicina da Dor, oferecendo tratamentos personalizados e inovadores para devolver o bem-estar e a alegria de viver sem dor.
@@ -536,5 +538,5 @@ export default function Home() {
       </footer>
     </div>
   );
-}
+}<div style={{width: '100%', height: '100%', textAlign: 'center', justifyContent: 'center', display: 'flex', flexDirection: 'column', color: 'white', fontSize: 205.03, fontFamily: 'Barlow', fontWeight: '400', textTransform: 'uppercase', lineHeight: 176.23, wordWrap: 'break-word'}}>Thaysa Macedo</div>
 
